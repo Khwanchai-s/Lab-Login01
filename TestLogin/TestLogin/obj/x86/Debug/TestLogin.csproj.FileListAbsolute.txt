@@ -1,0 +1,11 @@
+D:\LabCSharpClass0\TestLogin\TestLogin\bin\Debug\TestLogin.exe
+D:\LabCSharpClass0\TestLogin\TestLogin\bin\Debug\TestLogin.pdb
+D:\LabCSharpClass0\TestLogin\TestLogin\obj\x86\Debug\TestLogin.Form1.resources
+D:\LabCSharpClass0\TestLogin\TestLogin\obj\x86\Debug\TestLogin.frmLogin.resources
+D:\LabCSharpClass0\TestLogin\TestLogin\obj\x86\Debug\TestLogin.Properties.Resources.resources
+D:\LabCSharpClass0\TestLogin\TestLogin\obj\x86\Debug\TestLogin.csproj.GenerateResource.Cache
+D:\LabCSharpClass0\TestLogin\TestLogin\obj\x86\Debug\TestLogin.exe
+D:\LabCSharpClass0\TestLogin\TestLogin\obj\x86\Debug\TestLogin.pdb
+D:\LabCSharpClass0\TestLogin\TestLogin\bin\Debug\TestLogin.exe.config
+D:\LabCSharpClass0\TestLogin\TestLogin\obj\x86\Debug\TestLogin.Form2.resources
+D:\LabCSharpClass0\TestLogin\TestLogin\obj\x86\Debug\TestLogin.csprojResolveAssemblyReference.cache
